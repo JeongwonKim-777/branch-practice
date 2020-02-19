@@ -1,3 +1,3 @@
 # branch-practice
 
-- hectorflost: Jeongwon Kim
+- hectorflost: 김정원
